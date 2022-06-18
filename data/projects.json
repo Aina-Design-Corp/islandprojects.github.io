@@ -2,7 +2,7 @@
     "includes": ["common.json"],
     "deliverables": [
       {
-        "name": "HTML5-Documents",
+        "name": "HTML5-ProjectDocuments",
         "context": {"idref": "html"},
         "output": ".",
         "publication": {
