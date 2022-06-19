@@ -1,0 +1,26 @@
+{
+  "name": "projects-repository",
+  "version": "1.0.0",
+  "description": "Island wide participatory learning project data and datasets",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aina-Design-Corp/islandprojects.github.io.git"
+  },
+  "keywords": [
+    "greenthumbs",
+    "projects"
+  ],
+  "author": "J.Hagedorn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aina-Design-Corp/islandprojects.github.io/issues"
+  },
+  "homepage": "https://github.com/Aina-Design-Corp/islandprojects.github.io#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
