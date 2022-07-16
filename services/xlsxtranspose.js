@@ -31,3 +31,4 @@ function generateJSONFile(data) {
         console.error(err)
     }
 }
+
